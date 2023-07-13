@@ -1,0 +1,7 @@
+﻿  vgg16.cpp
+D:\ASSET\NAM4HK2\C_Code\Cifar10_Vgg16\Cifar10_vgg16\Cifar10_vgg16\vgg16.cpp(33,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\ASSET\NAM4HK2\C_Code\Cifar10_Vgg16\Cifar10_vgg16\Cifar10_vgg16\vgg16.cpp(34,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\ASSET\NAM4HK2\C_Code\Cifar10_Vgg16\Cifar10_vgg16\Cifar10_vgg16\vgg16.cpp(161,38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ASSET\NAM4HK2\C_Code\Cifar10_Vgg16\Cifar10_vgg16\Cifar10_vgg16\vgg16.cpp(288,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\ASSET\NAM4HK2\C_Code\Cifar10_Vgg16\Cifar10_vgg16\Cifar10_vgg16\vgg16.cpp(1004,27): warning C4244: 'initializing': conversion from 'time_t' to 'double', possible loss of data
+  Cifar10_vgg16.vcxproj -> D:\ASSET\NAM4HK2\C_Code\Cifar10_Vgg16\Cifar10_vgg16\Debug\Cifar10_vgg16.exe
